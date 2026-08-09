@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-malym-vznosom.github.io
+Sitemap: https://kazino-s-malym-vznosom.github.io/sitemap.xml
